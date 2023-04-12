@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/rdcxzc/iptvxxx/main/wxty.m3u8
+
 #EXTINF:-1 tvg-name="上海五星体育" tvg-logo="http://152.136.244.145/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育
 http://api2.52tb.xyz/info?id=375&token=20230405factdw
 #EXTINF:-1 tvg-name="上海五星体育" tvg-logo="http://152.136.244.145/shanghai/wuxingtiyu.png" group-title="上海",上海五星体育
